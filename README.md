@@ -2,21 +2,6 @@
 
 A PHP-based car rental system with user and admin panels.
 
-## Front-page preview without a database
-
-The root `index.html` is the standalone homepage for GitHub Pages. It includes
-its styles and vehicle illustrations, so it can be served without PHP or
-database access.
-
-To view the front page with the VS Code **Live Server** extension:
-
-1. Open `frontpage/index.html` in VS Code.
-2. Right-click inside the file and select **Open with Live Server**.
-
-This additional static preview uses the shared stylesheet and images in `user/`
-and displays sample pickup instructions and vehicles. The PHP application
-remains the database-powered version of the page.
-
 ## Features
 
 ### User Panel
